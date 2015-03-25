@@ -1,0 +1,7 @@
+in 2006 the federal government passed a law called the Unlawful Internet Gaming Enforcement Act which was designed to prevent gambling over the internet. The law included a carve out that clarified the legality of fantasy sports. Specifically, it exempted:
+
+"participation in any fantasy or simulation sports game or educational game or contest in which (if the game or contest involves a team or teams) no fantasy or simulation team is based on the current membership of an actual team that is a member of an amateur or professional sports organisation and meets the following conditions:  
+
+1. All prizes and awards offered to winning participants are established and made known to the participants in advance of the game or contest and their value is not determined by the number of participants or the amount of any fees paid by participants.  
+2. All winning outcomes reflect the relative knowledge and skill of the participants and are determined predominantly by accumulated statistical results of the performance of individuals (athletes in the case of sports events) in multiple real-world sporting or other events.  
+3. No winning outcome is based: a. On the score, point spread, or any performance or performances of any single real world team or any combination of such teams; or b. Solely on any single performance of an individual athlete in any single real-world sporting or other event."
