@@ -6,6 +6,8 @@ For thousands of years, it was unanimously agreed that the only way for two part
 
 When you flip this around, and you sign a message with your private-key, this means anyone can read it using your public-key. There is no secret communication here... its much better then that. It proves that you and only you, the one with the private-key, is the author of the message. 
 
+https://www.youtube.com/watch?v=HubAvQg6SPM
+
 This is your digital fingerprint. Pretty soon, when you want to gain access to a web site, you will provide your digital fingerprint, instead of a login/password. Your public key will be in the "phone book", and you will be responsible for your own identity, your private key. 
 
 In the near future, if you want to change your "login" name, maybe all you would need to do is sign a message "My new name is BabeRuth". Depending on the consensus protocol, maybe the network will reject this name because its already taken. 
