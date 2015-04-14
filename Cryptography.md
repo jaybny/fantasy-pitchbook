@@ -1,6 +1,6 @@
 
 ####Login
-Using a login/password to access a web-site is going the way of balancing your check-book. Instead of relying on and trusting a central authority to grant you access, you will be granted access by providing a unique digital fingerprint. 
+Using a login/password to access a web-site will be a thing of the past. Instead of relying on and trusting a central authority to grant you access, you will be granted access by providing a unique digital fingerprint. 
 
 For thousands of years, it was unanimously agreed that the only way for two parties to establish secure communications was to first exchange a secret key of some kind. In 1976, Public Key Cryptography (PKC) was discovered , by splitting the secret key into two. Each key had the remarkable property that it was only able to decrypt messages that were encrypted by the other. The key used to encrypt the message could not be used to decrypt it. The enabled one key to be made pubic, and the other to remain private. You now had the ability of receiving fully secure secret messages from anyone who had your public key. 
 
